@@ -1,0 +1,12 @@
+main: net.camo5hark.fdm.FDMPlugin
+name: FunnyDeathMessages
+version: 1.0
+api-version: 1.16
+author: Camo5hark
+website: www.camo5hark.net
+commands:
+  fdm:
+    permission: fdm.op
+permissions:
+  fdm.op:
+    default: op

@@ -1,0 +1,146 @@
+colors:
+  message: "3"
+  placeholder: "4"
+death-messages:
+  CONTACT:
+    - "%PLAYER% thought it looked comfortable."
+    - "%PLAYER% wanted to touch it."
+    - "%PLAYER% touched something bad."
+  ENTITY_ATTACK:
+    - "%PLAYER% was shit on by %KILLER%."
+    - "%KILLER% pwned %PLAYER%."
+    - "%KILLER% clapped %PLAYER%'s cheeks."
+    - "%PLAYER%'s face was put on a t-shirt by %KILLER%."
+    - "%KILLER% checked %PLAYER%'s vibe."
+    - "%PLAYER% got dogged on by %KILLER%."
+    - "%PLAYER% messed with %KILLER%."
+    - "%PLAYER% fucked with %KILLER% and found out."
+    - "%KILLER% killed %PLAYER% and eviscerated their corpse."
+  ENTITY_SWEEP_ATTACK:
+    - "%PLAYER% was shit on by %KILLER%."
+    - "%KILLER% pwned %PLAYER%."
+    - "%KILLER% clapped %PLAYER%'s cheeks."
+    - "%PLAYER%'s face was put on a t-shirt by %KILLER%."
+    - "%KILLER% checked %PLAYER%'s vibe."
+    - "%PLAYER% got dogged on by %KILLER%."
+    - "%PLAYER% messed with %KILLER%."
+    - "%PLAYER% fucked with %KILLER% and found out."
+    - "%KILLER% killed %PLAYER% and eviscerated their corpse."
+  PROJECTILE:
+    - "%PLAYER% got capped by %KILLER%."
+    - "%KILLER% domed %PLAYER%."
+    - "%KILLER% blew the top half of %PLAYER%'s skull off."
+    - "%KILLER% pulled-up on %PLAYER%."
+    - "%PLAYER% got murked by %KILLER%."
+    - "%PLAYER% had their brains splattered all over the pavement by %KILLER%."
+    - "%KILLER% blew %PLAYER%'s face off."
+    - "%KILLER% put a bullet in %PLAYER%'s lung."
+  SUFFOCATION:
+    - "%PLAYER% tried to clip into the backrooms."
+    - "%PLAYER% was buried alive."
+    - "%PLAYER% forgot to breath."
+  FALL:
+    - "%PLAYER% injected their femur into their chest cavity."
+    - "%PLAYER% twisted their ankle."
+    - "%PLAYER% slipped on a banana peel."
+    - "%PLAYER% landed on their head."
+    - "%PLAYER% shattered their skull on the pavement."
+    - "%PLAYER%'s parachute was a backpack."
+    - "%PLAYER% ate shit."
+    - "%PLAYER% turned into a meat-crayon."
+    - "%PLAYER% slipped a disk."
+    - "%PLAYER% believed they could fly."
+  FIRE:
+    - "%PLAYER% went to a gender-reveal party."
+    - "%PLAYER% did not have the high ground."
+    - "%PLAYER% didn't drink enough water."
+    - "%PLAYER% died from heat exhaustion."
+    - "%PLAYER% made human jerky."
+    - "%PLAYER% forgot to put on sunscreen."
+  FIRE_TICK:
+    - "%PLAYER% went to a gender-reveal party."
+    - "%PLAYER% did not have the high ground."
+    - "%PLAYER% didn't drink enough water."
+    - "%PLAYER% died from heat exhaustion."
+    - "%PLAYER% made human jerky."
+    - "%PLAYER% forgot to put on sunscreen."
+  MELTING:
+  LAVA:
+    - "%PLAYER% did not have the high ground."
+    - "%PLAYER% thought it was beans."
+    - "%PLAYER%'s flesh melted off."
+  DROWNING:
+    - "%PLAYER% drank through their nose."
+    - "%PLAYER% forgot swimming was a thing."
+    - "%PLAYER% sank right to the bottom."
+    - "%PLAYER% walked the plank."
+    - "%PLAYER% got caught in a whirlpool."
+    - "%PLAYER% was a bad swimmer."
+  BLOCK_EXPLOSION:
+    - "%PLAYER% went to Iraq."
+    - "%PLAYER%'s legs were blown off in Afghanistan."
+    - "%PLAYER% forgot to wear a flak jacket."
+    - "%PLAYER% wasn't fast enough."
+    - "%PLAYER% decided they wanted to be in a LiveLeak video."
+  ENTITY_EXPLOSION:
+    - "%PLAYER% went to Iraq."
+    - "%PLAYER%'s legs were blown off in Afghanistan."
+    - "%PLAYER% forgot to wear a flak jacket."
+    - "%PLAYER% wasn't fast enough."
+    - "%PLAYER% decided they wanted to be in a LiveLeak video."
+  VOID:
+    - "%PLAYER% was consumed by the void."
+    - "%PLAYER% fucked around and found out."
+    - "%PLAYER% was sent to Brazil."
+    - "%PLAYER% tried to out-pizza The Hut."
+  LIGHTNING:
+    - "%PLAYER% angered Thor."
+    - "%PLAYER% tested the power of God."
+    - "%PLAYER% sinned."
+    - "%PLAYER% wore metal gear on a stormy day."
+    - "%PLAYER% had a really bad day."
+  SUICIDE:
+    - "%PLAYER% decided it was too much."
+    - "%PLAYER% couldn't think of a better option."
+    - "%PLAYER% did the room temperature challenge."
+    - "%PLAYER% dropped dead."
+  STARVATION:
+    - "%PLAYER% lived in Ethiopia."
+    - "%PLAYER% forgot that food existed."
+    - "%PLAYER% got so hungry they ate their own body."
+  POISON:
+    - "%PLAYER% overdosed on botox."
+    - "%PLAYER% thought poison oak was weed."
+    - "%PLAYER% ate a Tide Pod."
+    - "%PLAYER% licked a toad."
+    - "%PLAYER% ate too many Flintstone Gummy Vitamins."
+    - "%PLAYER% got too itchy."
+    - "%PLAYER% drank the wocky slush."
+  MAGIC:
+    - "%PLAYER% was made invisible forever by a magician."
+    - "%PLAYER% believed in magic."
+  WITHER:
+    - "%PLAYER% rotted."
+    - "%PLAYER%'s flesh withered into black sludge and slid off their body."
+    - "%PLAYER%'s bones withered into coal dust."
+  FALLING_BLOCK:
+    - "%PLAYER%'s head was smashed between their shoulders."
+    - "%PLAYER% forgot to wear a hard-hat."
+  THORNS:
+    - "%PLAYER% stepped on a thorn dropped by %KILLER%."
+    - "%KILLER% popped out %PLAYER%'s eyes with thorns."
+    - "%KILLER% peppered %PLAYER%'s body with thorns."
+  DRAGON_BREATH:
+  CUSTOM:
+  FLY_INTO_WALL:
+    - "%PLAYER% pulled a 9/11."
+    - "%PLAYER% thought the wall would move."
+    - "%PLAYER% got body-checked by a wall."
+    - "%PLAYER% missed the runway."
+  HOT_FLOOR:
+    - "%PLAYER% barbecued their feet."
+    - "%PLAYER% forgot to wear shoes today."
+  CRAMMING:
+    - "%PLAYER% was trampled."
+    - "%PLAYER% was devoured by the masses."
+  DRYOUT:
